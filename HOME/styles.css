@@ -287,7 +287,7 @@ body {
 }
 
 .view-all-btn:hover {
-    background-color: #D4A017;
+    background-color:white;
 }
 
 .services-heading {
@@ -815,4 +815,7 @@ hr {
 
 .footer-wrapper {
     margin-top: auto;
+}
+.services-overlay {
+display:none;
 }
